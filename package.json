@@ -1,0 +1,10 @@
+{
+  "name": "grano-haven",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Grano × HAVEN: carta, pedidos, pagos y gestión sincronizados (demo MBA Junior EDEM)",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
